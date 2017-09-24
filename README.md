@@ -1,4 +1,4 @@
-# electron-quick-start
+# electron-boilerplate
 
 **Clone and run for a quick way to see Electron in action.**
 
