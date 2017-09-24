@@ -6,6 +6,7 @@ This is a minimal Electron application based on the [Quick Start Guide](https://
 
 **Use this app along with the [Electron API Demos](http://electron.atom.io/#get-started) app for API code examples to help you get started.**
 
+
 A basic Electron application needs just these files:
 
 - `package.json` - Points to the app's main file and lists its details and dependencies.

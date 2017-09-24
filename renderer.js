@@ -1,3 +1,15 @@
-// This file is required by the index.html file and will
-// be executed in the renderer process for that window.
-// All of the Node.js APIs are available in this process.
+// REQUIRES
+const electron = require('electron').remote;
+const app = electron.app;
+const jetpack = require('fs-jetpack');
+const ls = require('local-storage');
+const funky = require("./scripts/funky");
+const startupHelper = require("./scripts/startupHelper");
+
+// HELPERS
+startupHelper.preventUnwantedDefaultBahaviours();
+
+// DOCUMENT READY CODE
+$( document ).ready(function() {
+
+}); // end doc ready
