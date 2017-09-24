@@ -21,6 +21,13 @@ cd electronBolierplate
 **Install dependencies**
 ```
 npm install
+npm install electron-builder --save-dev
+npm install electron-default-menu --save
+npm install fs-jetpack" --save
+npm install jquery --save
+npm install local-storage --save
+npm install semver --save
+npm install axios --save
 ```
 
 **Run the app**
