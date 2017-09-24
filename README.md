@@ -35,7 +35,16 @@ npm install axios --save
 npm start
 ```
 
-
+## Remote JSON file for app updates
+```
+{
+	"version": "1.0.1",
+	"url": "https://www.yourdomain.co.uk/boilerplate-1.0.1-mac.zip",
+	"name": "bolierplate",
+	"notes": "release notes go here",
+	"pub-date": "24-09-2017"
+}
+```
 
 ## License
 
