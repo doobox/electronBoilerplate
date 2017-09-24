@@ -1,4 +1,4 @@
-# electron-boilerplate
+# electron-bolierplate
 
 **Clone and run for a quick way to see Electron in action.**
 
@@ -23,7 +23,7 @@ To clone and run this repository you'll need [Git](https://git-scm.com) and [Nod
 # Clone this repository
 git clone https://github.com/doobox/electronBoilerplate
 # Go into the repository
-cd electron-quick-start
+cd electron-bolierplate
 # Install dependencies
 npm install
 # Run the app
