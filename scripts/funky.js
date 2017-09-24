@@ -1,8 +1,8 @@
 
 module.exports = {
-  bollox
+  test
 }
 
-function bollox() {
+function test() {
 	console.log("exported bollox");
 }
